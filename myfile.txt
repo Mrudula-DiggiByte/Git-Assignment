@@ -5,3 +5,5 @@ This is a change in new-branch.
 This is a feature branch line.
 
 This is a conflicting line in main branch.
+One more line for rebase test.
+
