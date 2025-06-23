@@ -7,3 +7,8 @@ This is a feature branch line.
 This is a conflicting line in main branch.
 One more line for rebase test.
 
+
+First commit in cherry branch.
+
+Second commit in cherry branch.
+
