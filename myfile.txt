@@ -4,3 +4,4 @@ I am learning GIT
 This is a change in new-branch.
 This is a feature branch line.
 
+This is a conflicting line in main branch.
